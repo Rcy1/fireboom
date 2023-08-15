@@ -1,0 +1,51 @@
+[
+	{
+		"config": {
+			"apiNamespace": "todo",
+			"appendType": "",
+			"databaseUrl": {
+				"key": "",
+				"kind": "0",
+				"val": "todo.db"
+			},
+			"dbName": "",
+			"dbType": "SQLite",
+			"host": "",
+			"password": {
+				"key": "",
+				"kind": "0",
+				"val": ""
+			},
+			"port": "",
+			"replaceJSONTypeFieldConfiguration": null,
+			"schemaExtension": "",
+			"userName": {
+				"key": "",
+				"kind": "0",
+				"val": ""
+			}
+		},
+		"createTime": "2023-03-13 01:35:16Z",
+		"deleteTime": "",
+		"enabled": true,
+		"id": 1429679094890496,
+		"name": "todo",
+		"sourceType": 1,
+		"updateTime": "2023-03-13 01:35:17Z"
+	},
+	{
+		"id": 2308863574409216,
+		"name": "system",
+		"sourceType": 2,
+		"config": {
+			"apiNameSpace": "system",
+			"baseURL": "http://localhost:9123",
+			"filePath": "openapi.json",
+			"headers": []
+		},
+		"enabled": true,
+		"createTime": "2023-08-15 08:03:26Z",
+		"updateTime": "",
+		"deleteTime": ""
+	}
+]
